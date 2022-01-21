@@ -41,6 +41,7 @@ body{
     color: var(--Dark-blue);
     font-weight: 700;
     text-align: center;
+    font-size: 20px;
 }
 .card-body .subtitle{
     color: var(--Grayish-blue);
